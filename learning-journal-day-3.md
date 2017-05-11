@@ -1,4 +1,4 @@
-#Day 3
+# Day 3
 
 Trying to do the simplest adjustments with CSS is so frustrating.
 
@@ -7,4 +7,4 @@ var questions = ['q1', 'q2', ...];
 var answers = ['Y', 'N', ...]
 for loop through questions, compare user answer to answers[i], give generic win or lose statement.
 
-Today we learned how to create branches in git and talked about for loops, while loops. 
+Today we learned how to create branches in git and talked about for loops, while loops.
